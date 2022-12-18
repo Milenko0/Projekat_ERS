@@ -1,0 +1,8 @@
+F:\_djur\Power Distribution System\Power Distribution System\bin\Debug\Power Distribution System.exe.config
+F:\_djur\Power Distribution System\Power Distribution System\bin\Debug\Power Distribution System.exe
+F:\_djur\Power Distribution System\Power Distribution System\bin\Debug\Power Distribution System.pdb
+F:\_djur\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.AssemblyReference.cache
+F:\_djur\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.SuggestedBindingRedirects.cache
+F:\_djur\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.CoreCompileInputs.cache
+F:\_djur\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.exe
+F:\_djur\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.pdb
