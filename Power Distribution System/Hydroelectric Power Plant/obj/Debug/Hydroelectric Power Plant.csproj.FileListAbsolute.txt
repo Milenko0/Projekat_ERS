@@ -1,0 +1,7 @@
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.dll.config
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.pdb
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.csproj.AssemblyReference.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.csproj.CoreCompileInputs.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.pdb

@@ -1,0 +1,7 @@
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\bin\Debug\Consumer.dll.config
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\bin\Debug\Consumer.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\bin\Debug\Consumer.pdb
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\obj\Debug\Consumer.csproj.AssemblyReference.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\obj\Debug\Consumer.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\obj\Debug\Consumer.pdb

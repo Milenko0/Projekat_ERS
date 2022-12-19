@@ -1,0 +1,7 @@
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\bin\Debug\Common.dll.config
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\bin\Debug\Common.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\bin\Debug\Common.pdb
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\obj\Debug\Common.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Common\obj\Debug\Common.pdb

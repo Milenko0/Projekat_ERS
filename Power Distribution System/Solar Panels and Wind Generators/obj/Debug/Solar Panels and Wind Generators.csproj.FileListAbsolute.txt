@@ -1,0 +1,7 @@
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll.config
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.pdb
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.AssemblyReference.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
+F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
