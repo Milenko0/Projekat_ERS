@@ -7,7 +7,7 @@ using static Consumer.Uredjaj;
 
 namespace Consumer
 {
-    internal class Consumer
+    public class Consumer
     {
         private List<Uredjaj> uredjaji;
         private int trenutnaPotraznja;

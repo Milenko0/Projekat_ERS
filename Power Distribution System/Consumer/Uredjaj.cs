@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Common;
 
 namespace Consumer
 {
-    internal class Uredjaj
+    public class Uredjaj : Iuredjaj
     {
         public string Naziv { get; set; }
         public int PotrosnjaEnergije { get; set; }

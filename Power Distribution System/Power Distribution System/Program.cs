@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Power_Distribution_System
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Common
 {
-    internal interface Iconsumer
+    public interface Iconsumer
     {
-
+        
     }
 }

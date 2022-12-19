@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hydroelectric_Power_Plant
 {
-    internal class Hydroelectric_Power_Plant
+    public class Hydroelectric_Power_Plant
     {
     }
 }

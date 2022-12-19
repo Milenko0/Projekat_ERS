@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Distribution_Center
 {
-    internal class Distribution_Center
+    public class Distribution_Center
     {
     }
 }
