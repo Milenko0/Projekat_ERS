@@ -20,6 +20,30 @@ namespace Power_Distribution_System
             korisnik.Dodaj(uredjaj2);
             korisnik.Dodaj(uredjaj3);
             korisnik.Dodaj(uredjaj4);
+            
+            Distribution_Center.Distribution_Center distributivni_Centar = new Distribution_Center.Distribution_Center();
+            Solar_Panels_and_Wind_Generators.Solar_Panels_and_Wind_Generators paneliITurbine = new Solar_Panels_and_Wind_Generators.Solar_Panels_and_Wind_Generators();
+            {
+                Console.WriteLine("Unesite vrednost snage sunca (u procentima 0-100%):");
+                string a = Console.ReadLine();
+                bool isParsable = Int32.TryParse(a, out int num);
+                if (isParsable)
+                    paneliITurbine.JacinaSunca = num;
+                else
+                    Console.WriteLine("Could not be parsed.");
+
+                Console.WriteLine("Unesite vrednost snage vetra (u procentima 0-100%):");
+                a = Console.ReadLine();
+                isParsable = Int32.TryParse(a, out num);
+                if (isParsable)
+                    paneliITurbine.JacinaVetra = num;
+                else
+                    Console.WriteLine("Could not be parsed.");
+            }
+            paneliITurbine.BrojPanela = 1;
+            paneliITurbine.BrojTurbina = 1;
+            distributivni_Centar.PrirodnaProizvodnja = paneliITurbine.BrojPanela * paneliITurbine.ProizvodnjaPanela + paneliITurbine.BrojTurbina * paneliITurbine.ProizvodnjaTurbina;
+            
             Console.WriteLine("----------------Power Distribution System----------------");
             while (true)
             {
@@ -39,15 +63,19 @@ namespace Power_Distribution_System
                         return;
                     case "1":
                         korisnik.UkljuciUredjaj(uredjaj1);
+                        distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         break;
                     case "2":
                         korisnik.UkljuciUredjaj(uredjaj2);
+                        distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         break;
                     case "3":
                         korisnik.UkljuciUredjaj(uredjaj3);
+                        distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         break;
                     case "4":
                         korisnik.UkljuciUredjaj(uredjaj4);
+                        distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         break;
                     default:
                         Console.WriteLine("Nista od ponudjenog nije izabrano");
