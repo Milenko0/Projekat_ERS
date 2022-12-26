@@ -72,7 +72,7 @@ namespace Consumer
          private static void LogDogadjaja(double ePotraznja)
            //1.  private static void LogDogadjaja(double ePotraznja, double cenakWh)
         {
-             string logFilePath = "c:\\Users\\Milenko\\Desktop\\ERS projekat\\Projekat_ERS\\logDogadjaja.txt";
+             string logFilePath = System.IO.Directory.GetCurrentDirectory() + "\\logDogadjaja.txt";
 
             if (!File.Exists(logFilePath))
             {

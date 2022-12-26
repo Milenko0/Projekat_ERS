@@ -9,3 +9,14 @@ F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\bin\Debug\Co
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\bin\Debug\Common.pdb
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\bin\Debug\Common.dll.config
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+F:\_djur\Projekat\Power Distribution System\Consumer\bin\Debug\Consumer.dll.config
+F:\_djur\Projekat\Power Distribution System\Consumer\bin\Debug\Consumer.dll
+F:\_djur\Projekat\Power Distribution System\Consumer\bin\Debug\Consumer.pdb
+F:\_djur\Projekat\Power Distribution System\Consumer\bin\Debug\Common.dll
+F:\_djur\Projekat\Power Distribution System\Consumer\bin\Debug\Common.pdb
+F:\_djur\Projekat\Power Distribution System\Consumer\bin\Debug\Common.dll.config
+F:\_djur\Projekat\Power Distribution System\Consumer\obj\Debug\Consumer.csproj.AssemblyReference.cache
+F:\_djur\Projekat\Power Distribution System\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
+F:\_djur\Projekat\Power Distribution System\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+F:\_djur\Projekat\Power Distribution System\Consumer\obj\Debug\Consumer.dll
+F:\_djur\Projekat\Power Distribution System\Consumer\obj\Debug\Consumer.pdb
