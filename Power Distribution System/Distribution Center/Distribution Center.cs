@@ -23,23 +23,49 @@ namespace Distribution_Center
             {
                 hidroelektrana.UpotrebaHidroelektrane = 0;
                 Console.WriteLine("Nije potrebna upotreba hidroelektrane.");
+                LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
             else if(potraznja - PrirodnaProizvodnja > maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
             {
                 hidroelektrana.UpotrebaHidroelektrane = (potraznja - PrirodnaProizvodnja) / (maksimalnaProizvodnjaHidroelektrane / 100);
                 Console.WriteLine("Potrebno je povecati nivo proizvodnje hidroelektrane.");
                 Console.WriteLine("Novi nivo upotrebljenosti hidroelektrane je " + hidroelektrana.UpotrebaHidroelektrane + "%.");
+                LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
             else if (potraznja - PrirodnaProizvodnja < maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
             {
                 hidroelektrana.UpotrebaHidroelektrane = (potraznja - PrirodnaProizvodnja) / (maksimalnaProizvodnjaHidroelektrane / 100);
                 Console.WriteLine("Potrebno je smanjiti nivo proizvodnje hidroelektrane.");
                 Console.WriteLine("Novi nivo upotrebljenosti hidroelektrane je " + hidroelektrana.UpotrebaHidroelektrane + "%.");
+                LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
             else
             {
                 Console.WriteLine("Nije potrebno menjati nivo proizvodnje hidroelektrane.");
                 Console.WriteLine("Nivo upotrebljenosti hidroelektrane je " + hidroelektrana.UpotrebaHidroelektrane + "%.");
+                LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
+            }
+        }
+
+        private static void LogRegulacijeHidroElektrane(int upotreba)
+        {
+            string logFilePath = System.IO.Directory.GetCurrentDirectory() + "\\LogRegulacijeHidroElektrane.txt";
+
+            if (!File.Exists(logFilePath))
+            {
+                using (StreamWriter sw = File.CreateText(logFilePath))
+                {
+                    sw.WriteLine(DateTime.Now);
+                    sw.WriteLine("Nivo upotrebljenosti hidroelektrane je " + upotreba + "%.");
+                }
+            }
+            else
+            {
+                using (StreamWriter sw = File.AppendText(logFilePath))
+                {
+                    sw.WriteLine(DateTime.Now);
+                    sw.WriteLine("Nivo upotrebljenosti hidroelektrane je " + upotreba + "%.");
+                }
             }
         }
 
@@ -57,8 +83,7 @@ namespace Distribution_Center
                     cenaPoKWh = 9.051;
                 }
                 else cenaPoKWh = 18.102;
-                return cenaPoKWh;
-            
+                return cenaPoKWh;           
         }
 
     }

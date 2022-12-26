@@ -12,3 +12,10 @@ C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution Sy
 C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.dll.config
 C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.dll
 C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.pdb
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.dll.config
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.dll
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\bin\Debug\Hydroelectric Power Plant.pdb
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.csproj.AssemblyReference.cache
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.csproj.CoreCompileInputs.cache
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.dll
+F:\_djur\Projekat\Power Distribution System\Hydroelectric Power Plant\obj\Debug\Hydroelectric Power Plant.pdb
