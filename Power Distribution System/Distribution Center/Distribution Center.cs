@@ -83,7 +83,7 @@ namespace Distribution_Center
                     cenaPoKWh = 9.051;
                 }
                 else cenaPoKWh = 18.102;
-                return cenaPoKWh;           
+                return cenaPoKWh;
         }
 
     }
