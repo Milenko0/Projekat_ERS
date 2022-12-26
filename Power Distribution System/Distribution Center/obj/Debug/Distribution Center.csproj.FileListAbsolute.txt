@@ -5,3 +5,10 @@ F:\_djur\New folder\Projekat_ERS\Power Distribution System\Distribution Center\o
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.CoreCompileInputs.cache
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.dll
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.pdb
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\bin\Debug\Distribution Center.dll.config
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\bin\Debug\Distribution Center.dll
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\bin\Debug\Distribution Center.pdb
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.AssemblyReference.cache
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.dll
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.pdb
