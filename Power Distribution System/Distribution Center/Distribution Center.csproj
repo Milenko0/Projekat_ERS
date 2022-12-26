@@ -52,5 +52,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hydroelectric Power Plant\Hydroelectric Power Plant.csproj">
+      <Project>{d941d3cc-e4d4-4bdb-a75e-41af9965da2c}</Project>
+      <Name>Hydroelectric Power Plant</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Solar Panels and Wind Generators\Solar Panels and Wind Generators.csproj">
+      <Project>{2bca4f88-c357-4c00-aad7-2f27d131ffd4}</Project>
+      <Name>Solar Panels and Wind Generators</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

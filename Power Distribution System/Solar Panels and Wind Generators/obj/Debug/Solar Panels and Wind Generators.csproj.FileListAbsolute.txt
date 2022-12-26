@@ -5,10 +5,10 @@ F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
 F:\_djur\New folder\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll.config
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.pdb
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.AssemblyReference.cache
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
-F:\_djur\Projekat\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll.config
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.pdb
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.AssemblyReference.cache
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
+C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
