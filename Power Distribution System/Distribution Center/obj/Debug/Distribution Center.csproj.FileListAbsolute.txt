@@ -19,3 +19,17 @@ C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution Sy
 C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\bin\Debug\Solar Panels and Wind Generators.pdb
 C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\bin\Debug\Solar Panels and Wind Generators.dll.config
 C:\Users\Gustavo Fringe\Desktop\PRokejkt\Projekat_ERS-main\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.CopyComplete
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Distribution Center.dll.config
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Distribution Center.dll
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Distribution Center.pdb
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Hydroelectric Power Plant.dll
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Solar Panels and Wind Generators.dll
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Hydroelectric Power Plant.pdb
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Hydroelectric Power Plant.dll.config
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Solar Panels and Wind Generators.pdb
+F:\_djur\Projekat\Power Distribution System\Distribution Center\bin\Debug\Solar Panels and Wind Generators.dll.config
+F:\_djur\Projekat\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.AssemblyReference.cache
+F:\_djur\Projekat\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.CoreCompileInputs.cache
+F:\_djur\Projekat\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.csproj.CopyComplete
+F:\_djur\Projekat\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.dll
+F:\_djur\Projekat\Power Distribution System\Distribution Center\obj\Debug\Distribution Center.pdb

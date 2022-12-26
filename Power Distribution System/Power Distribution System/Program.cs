@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Consumer;
+using Distribution_Center;
 
 namespace Power_Distribution_System
 {
@@ -11,9 +12,9 @@ namespace Power_Distribution_System
     {
         static void Main()
         {
-            Uredjaj uredjaj1 = new Uredjaj("Frizider", 1500);
-            Uredjaj uredjaj2 = new Uredjaj("Racunar", 450);
-            Uredjaj uredjaj3 = new Uredjaj("TV", 250);
+            Uredjaj uredjaj1 = new Uredjaj("Elektricni Motor", 1500);
+            Uredjaj uredjaj2 = new Uredjaj("Racunar", 100);
+            Uredjaj uredjaj3 = new Uredjaj("TV", 50);
             Uredjaj uredjaj4 = new Uredjaj("Lampa", 20);
             Consumer.Consumer korisnik = new Consumer.Consumer();
             korisnik.Dodaj(uredjaj1);
@@ -64,24 +65,28 @@ namespace Power_Distribution_System
                     case "1":
                         korisnik.UkljuciUredjaj(uredjaj1);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
+                        korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     case "2":
                         korisnik.UkljuciUredjaj(uredjaj2);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
+                        korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     case "3":
                         korisnik.UkljuciUredjaj(uredjaj3);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
+                        korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     case "4":
                         korisnik.UkljuciUredjaj(uredjaj4);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
+                        korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     default:
                         Console.WriteLine("Nista od ponudjenog nije izabrano");
                         break;
                 }
-            }       
-        }
+            }
+        }  
     }
 }

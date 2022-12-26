@@ -12,11 +12,13 @@ namespace Consumer
     {
         private List<Uredjaj> uredjaji;
         public int trenutnaPotraznja;
+        public double cenaZaKorisnika;
 
         public Consumer()
         {
             uredjaji = new List<Uredjaj>();
             trenutnaPotraznja = 0;
+            cenaZaKorisnika= 0;
         }
 
         public void Dodaj(Uredjaj uredjaj)
@@ -41,7 +43,7 @@ namespace Consumer
             uredjaj.Ukljuci();
 
             Console.WriteLine("Uredjaj je ukljucen i potraznja je: " + trenutnaPotraznja + " kWh.");
-            LogDogadjaja(trenutnaPotraznja);
+            LogDogadjaja(trenutnaPotraznja, cenaZaKorisnika);
         }
 
         public void IskljuciUredjaj(Uredjaj uredjaj)
@@ -56,21 +58,17 @@ namespace Consumer
             uredjaj.Iskljuci();
 
             Console.WriteLine("Uredjaj je iskljucen i potraznja je: " + trenutnaPotraznja + " kWh.");
-            LogDogadjaja(trenutnaPotraznja);
+            LogDogadjaja(trenutnaPotraznja, cenaZaKorisnika);
         }
 
-        public void Energija(int potraznja, out int primljenaEnergija, out int cenakWh)
+        public void Energija(double cenakWh)
         {
-            // Send request for energy to distribution center and receive energy and price information
-            primljenaEnergija = potraznja;
-            cenakWh = 0; // placehoder value, replace with actual price received from distribution center
-
-            Console.WriteLine("Primljeno " + primljenaEnergija + " kWh energije po ceni od " + cenakWh + " po kWh.");
-            //1. LogDogadjaja(primljenaEnergija, cenakWh);
+            cenaZaKorisnika = cenakWh;
+            Console.WriteLine("Trenutna cena po kWh:"  + cenakWh);
+            LogDogadjaja(trenutnaPotraznja, cenakWh);
         }
 
-         private static void LogDogadjaja(double ePotraznja)
-           //1.  private static void LogDogadjaja(double ePotraznja, double cenakWh)
+        private static void LogDogadjaja(double ePotraznja, double cena)
         {
              string logFilePath = System.IO.Directory.GetCurrentDirectory() + "\\logDogadjaja.txt";
 
@@ -86,7 +84,7 @@ namespace Consumer
                 using (StreamWriter sw = File.AppendText(logFilePath))
                 {
                     sw.WriteLine("Potraznja energije: " + ePotraznja + " kWh");
-                   //1. sw.WriteLine("Cena po kWh: " + cenakWh + " EUR");
+                    sw.WriteLine("Cena po kWh: " + cena + " RSD");
                 }
             }         
         }

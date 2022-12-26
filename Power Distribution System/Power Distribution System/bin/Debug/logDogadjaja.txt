@@ -1,8 +1,0 @@
-Energy demand logging started at 26/12/2022 1:18:11 am
-Potraznja energije: 3000 kWh
-Potraznja energije: 3450 kWh
-Potraznja energije: 3700 kWh
-Potraznja energije: 3720 kWh
-Potraznja energije: 4170 kWh
-Potraznja energije: 4420 kWh
-Potraznja energije: 5920 kWh
