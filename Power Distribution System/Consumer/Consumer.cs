@@ -11,7 +11,7 @@ namespace Consumer
     public class Consumer
     {
         private List<Uredjaj> uredjaji;
-        private int trenutnaPotraznja;
+        public int trenutnaPotraznja;
 
         public Consumer()
         {
