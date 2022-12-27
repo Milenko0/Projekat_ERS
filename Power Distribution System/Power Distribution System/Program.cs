@@ -24,10 +24,26 @@ namespace Power_Distribution_System
             
             Distribution_Center.Distribution_Center distributivni_Centar = new Distribution_Center.Distribution_Center();
             Solar_Panels_and_Wind_Generators.Solar_Panels_and_Wind_Generators paneliITurbine = new Solar_Panels_and_Wind_Generators.Solar_Panels_and_Wind_Generators();
-            {
-                Console.WriteLine("Unesite vrednost snage sunca (u procentima 0-100%):");
+           {
+                Console.WriteLine("Unesite broj solarnih panela koji su ukljuceni u sistem:");
                 string a = Console.ReadLine();
                 bool isParsable = Int32.TryParse(a, out int num);
+                if (isParsable)
+                    paneliITurbine.BrojPanela = num;
+                else
+                    Console.WriteLine("Could not be parsed.");
+
+                Console.WriteLine("Unesite broj vetrogeneratora koji su ukljuceni u sistem:");
+                a = Console.ReadLine();
+                isParsable = Int32.TryParse(a, out num);
+                if (isParsable)
+                    paneliITurbine.BrojTurbina = num;
+                else
+                    Console.WriteLine("Could not be parsed.");
+
+                Console.WriteLine("Unesite vrednost snage sunca (u procentima 0-100%):");
+                a = Console.ReadLine();
+                isParsable = Int32.TryParse(a, out num);
                 if (isParsable)
                     paneliITurbine.JacinaSunca = num;
                 else
@@ -41,8 +57,6 @@ namespace Power_Distribution_System
                 else
                     Console.WriteLine("Could not be parsed.");
             }
-            paneliITurbine.BrojPanela = 1;
-            paneliITurbine.BrojTurbina = 1;
             distributivni_Centar.PrirodnaProizvodnja = paneliITurbine.BrojPanela * paneliITurbine.ProizvodnjaPanela + paneliITurbine.BrojTurbina * paneliITurbine.ProizvodnjaTurbina;
             
             Console.WriteLine("----------------Power Distribution System----------------");
