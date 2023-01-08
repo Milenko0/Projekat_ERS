@@ -13,8 +13,20 @@ namespace Consumer
         public int PotrosnjaEnergije { get; set; }
         public bool Ukljucen { get; set; }
 
+        public Uredjaj()
+        {
+        }
+
         public Uredjaj(string naziv, int potrosnjaEnergije)
         {
+            if (naziv == null)
+            {
+                throw new ArgumentNullException("ne sme biti null");
+            }
+            if (naziv.Trim() == "")
+            {
+                throw new ArgumentException("ne sme biti null");
+            }
             Naziv = naziv;
             PotrosnjaEnergije = potrosnjaEnergije;
             Ukljucen = false;

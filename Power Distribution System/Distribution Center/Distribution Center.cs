@@ -72,18 +72,22 @@ namespace Distribution_Center
         public double izracunajCenu(int potraznja) 
         {
             double cenaPoKWh;
-            
-                if (potraznja <= 350)
-                {
-                    cenaPoKWh = 6.034;
-                }
-                else
-                if (potraznja >= 351 && potraznja <= 1600)
-                {
-                    cenaPoKWh = 9.051;
-                }
-                else cenaPoKWh = 18.102;
-                return cenaPoKWh;
+            if (potraznja < 0)
+            {
+                throw new ArgumentException("ne sme biti negatiivan br");
+            }
+
+            if (potraznja <= 350)
+            {
+              cenaPoKWh = 6.034;
+            }
+            else
+            if (potraznja >= 351 && potraznja <= 1600)
+            {
+                cenaPoKWh = 9.051;
+            }
+            else cenaPoKWh = 18.102;
+            return cenaPoKWh;
         }
 
     }

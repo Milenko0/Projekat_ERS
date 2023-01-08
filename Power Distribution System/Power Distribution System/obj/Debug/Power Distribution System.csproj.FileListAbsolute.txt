@@ -54,3 +54,33 @@ F:\_djur\Projekat\Power Distribution System\Power Distribution System\obj\Debug\
 F:\_djur\Projekat\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.CopyComplete
 F:\_djur\Projekat\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.exe
 F:\_djur\Projekat\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\nunit.engine.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\nunit.engine.api.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\nunit.engine.core.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Power Distribution System.exe.config
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Power Distribution System.exe
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Power Distribution System.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Common.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Consumer.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Distribution Center.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Hydroelectric Power Plant.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Solar Panels and Wind Generators.dll
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Common.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Common.dll.config
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Consumer.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Consumer.dll.config
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Distribution Center.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Distribution Center.dll.config
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Hydroelectric Power Plant.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Hydroelectric Power Plant.dll.config
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Solar Panels and Wind Generators.pdb
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\bin\Debug\Solar Panels and Wind Generators.dll.config
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.AssemblyReference.cache
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.CoreCompileInputs.cache
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.csproj.CopyComplete
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.exe
+C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Power Distribution System\obj\Debug\Power Distribution System.pdb
