@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,6 +14,8 @@ namespace Power_Distribution_System
     {
         static void Main()
         {
+            ciscenjeLogova();
+
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
             Uredjaj uredjaj1 = new Uredjaj("Elektricni Motor", 1500);
             Uredjaj uredjaj2 = new Uredjaj("Racunar", 100);
@@ -107,6 +110,16 @@ namespace Power_Distribution_System
                         break;
                 }
             }
-        }  
+        }
+
+        private static void ciscenjeLogova() 
+        {
+            string log1 = System.IO.Directory.GetCurrentDirectory() + "\\logDogadjaja.txt";
+            string log2 = System.IO.Directory.GetCurrentDirectory() + "\\LogRegulacijeHidroElektrane.txt";
+            if (File.Exists(log1))
+                File.Delete(log1);
+            if (File.Exists(log2))
+                File.Delete(log2);
+        }
     }
 }
