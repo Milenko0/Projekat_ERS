@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj": {}
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,16 +19,16 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj",
         "projectName": "Consumer",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
               }
             }
           }
@@ -38,19 +38,19 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj",
         "projectName": "Distribution Center",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
               }
             }
           }
@@ -60,11 +60,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj",
         "projectName": "Hydroelectric Power Plant",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -75,28 +75,28 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj",
         "projectName": "Power Distribution System",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
               }
             }
           }
@@ -106,11 +106,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj",
         "projectName": "Solar Panels and Wind Generators",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -121,20 +121,17 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj",
         "projectName": "Test1",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj",
-        "packagesPath": "C:\\Users\\Milenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test1\\obj\\",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test1\\Test1.csproj",
+        "packagesPath": "C:\\Users\\djura\\.nuget\\packages\\",
+        "outputPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Milenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\djura\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -148,26 +145,26 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj"
               }
             }
           }
@@ -213,7 +210,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -222,35 +220,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj": {
+    "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj",
+        "projectUniqueName": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj",
+        "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Test\\Test.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Common\\Common.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Consumer\\Consumer.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Distribution Center\\Distribution Center.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Hydroelectric Power Plant\\Hydroelectric Power Plant.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Power Distribution System\\Power Distribution System.csproj"
               },
-              "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
-                "projectPath": "C:\\Users\\Milenko\\Desktop\\projekat\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
+              "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj": {
+                "projectPath": "F:\\_djur\\Projekat_ERS\\Power Distribution System\\Solar Panels and Wind Generators\\Solar Panels and Wind Generators.csproj"
               }
             }
           }

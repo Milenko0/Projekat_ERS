@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OfficeOpenXml.Style;
+using OfficeOpenXml;
 
 namespace Distribution_Center
 {
@@ -12,10 +14,12 @@ namespace Distribution_Center
         public Hydroelectric_Power_Plant.Hydroelectric_Power_Plant hidroelektrana = new Hydroelectric_Power_Plant.Hydroelectric_Power_Plant();
 
         static private int maksimalnaProizvodnjaHidroelektrane = 50000;
+        private List<Hidro_Model> output;
         public int PrirodnaProizvodnja { get; set; }
         public Distribution_Center()
         {
             PrirodnaProizvodnja = 0;
+            output = new List<Hidro_Model>();
         }
 
         public void regulisiHidroelektranu(int potraznja) {
@@ -23,6 +27,7 @@ namespace Distribution_Center
             {
                 hidroelektrana.UpotrebaHidroelektrane = 0;
                 Console.WriteLine("Nije potrebna upotreba hidroelektrane.");
+                dodajNaListu(hidroelektrana.UpotrebaHidroelektrane);
                 LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
             else if(potraznja - PrirodnaProizvodnja > maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
@@ -30,6 +35,7 @@ namespace Distribution_Center
                 hidroelektrana.UpotrebaHidroelektrane = (potraznja - PrirodnaProizvodnja) / (maksimalnaProizvodnjaHidroelektrane / 100);
                 Console.WriteLine("Potrebno je povecati nivo proizvodnje hidroelektrane.");
                 Console.WriteLine("Novi nivo upotrebljenosti hidroelektrane je " + hidroelektrana.UpotrebaHidroelektrane + "%.");
+                dodajNaListu(hidroelektrana.UpotrebaHidroelektrane);
                 LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
             else if (potraznja - PrirodnaProizvodnja < maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
@@ -37,12 +43,14 @@ namespace Distribution_Center
                 hidroelektrana.UpotrebaHidroelektrane = (potraznja - PrirodnaProizvodnja) / (maksimalnaProizvodnjaHidroelektrane / 100);
                 Console.WriteLine("Potrebno je smanjiti nivo proizvodnje hidroelektrane.");
                 Console.WriteLine("Novi nivo upotrebljenosti hidroelektrane je " + hidroelektrana.UpotrebaHidroelektrane + "%.");
+                dodajNaListu(hidroelektrana.UpotrebaHidroelektrane);
                 LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
             else
             {
                 Console.WriteLine("Nije potrebno menjati nivo proizvodnje hidroelektrane.");
                 Console.WriteLine("Nivo upotrebljenosti hidroelektrane je " + hidroelektrana.UpotrebaHidroelektrane + "%.");
+                dodajNaListu(hidroelektrana.UpotrebaHidroelektrane);
                 LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
         }
@@ -90,5 +98,54 @@ namespace Distribution_Center
             return cenaPoKWh;
         }
 
+        private void dodajNaListu(int upotreba)
+        {
+            Hidro_Model model = new Hidro_Model();
+            model.time = DateTime.Now;
+            model.Iskorscenost = upotreba;
+            output.Add(model);
+        }
+
+        public void saveToExcel()
+        {
+            using (ExcelPackage excel = new ExcelPackage())
+            {
+
+                var workSheet = excel.Workbook.Worksheets.Add("HidroElektrana");
+
+                workSheet.Row(1).Height = 20;
+                workSheet.Row(1).Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
+                workSheet.Row(1).Style.Font.Bold = true;
+
+                // Zaglavnje
+                workSheet.Cells[1, 1].Value = "No.";
+                workSheet.Cells[1, 2].Value = "Time";
+                workSheet.Cells[1, 3].Value = "Use in %";
+              
+                int index = 2;
+
+                foreach (var hidro_Model in output)
+                {
+                    workSheet.Cells[index, 1].Value = (index - 1).ToString();
+                    workSheet.Cells[index, 2].Value = hidro_Model.time.ToString();
+                    workSheet.Cells[index, 3].Value = hidro_Model.Iskorscenost;
+                    index++;
+                }
+
+                workSheet.Column(1).AutoFit();
+                workSheet.Column(2).AutoFit();
+                workSheet.Column(3).AutoFit();
+
+                string filePath = System.IO.Directory.GetCurrentDirectory() + "\\hidro.xlsx";
+
+                if (File.Exists(filePath))
+                    File.Delete(filePath);
+
+                FileStream objFileStrm = File.Create(filePath);
+                objFileStrm.Close();
+
+                File.WriteAllBytes(filePath, excel.GetAsByteArray());
+            }
+        }
     }
 }

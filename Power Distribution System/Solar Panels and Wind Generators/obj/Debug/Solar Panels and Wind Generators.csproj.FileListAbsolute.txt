@@ -25,3 +25,16 @@ C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Solar P
 C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
 C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
 C:\Users\Milenko\Desktop\projekat\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\NUnit3.TestAdapter.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\NUnit3.TestAdapter.pdb
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\nunit.engine.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\nunit.engine.api.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\nunit.engine.core.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\testcentric.engine.metadata.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll.config
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.pdb
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.AssemblyReference.cache
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
+F:\_djur\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Consumer;
 using Distribution_Center;
+using OfficeOpenXml;
 
 namespace Power_Distribution_System
 {
@@ -12,6 +13,7 @@ namespace Power_Distribution_System
     {
         static void Main()
         {
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
             Uredjaj uredjaj1 = new Uredjaj("Elektricni Motor", 1500);
             Uredjaj uredjaj2 = new Uredjaj("Racunar", 100);
             Uredjaj uredjaj3 = new Uredjaj("TV", 50);
@@ -64,10 +66,13 @@ namespace Power_Distribution_System
             {
                 
                 Console.WriteLine("Lista uredjaja:");
+                
                 Console.WriteLine("1. " + uredjaj1.Naziv);
                 Console.WriteLine("2. " + uredjaj2.Naziv);
                 Console.WriteLine("3. " + uredjaj3.Naziv);
                 Console.WriteLine("4. " + uredjaj4.Naziv);
+                Console.WriteLine("----------------------");
+                Console.WriteLine("0. Izdji i sacuvaj");
                 Console.Write("Odaberite zeljeni uredjaj: ");
                 string odabrano = Console.ReadLine();
                 Console.Clear();
@@ -75,6 +80,7 @@ namespace Power_Distribution_System
                 switch (odabrano)
                 {
                     case "0":
+                        distributivni_Centar.saveToExcel();
                         return;
                     case "1":
                         korisnik.UkljuciUredjaj(uredjaj1);
