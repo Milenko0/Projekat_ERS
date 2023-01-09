@@ -82,7 +82,7 @@ namespace Distribution_Center
             double cenaPoKWh;
             if (potraznja < 0)
             {
-                throw new ArgumentException("ne sme biti negatiivan br");
+                throw new ArgumentException("Ne sme biti negativan broj!");
             }
 
             if (potraznja <= 350)
