@@ -98,6 +98,11 @@ namespace Distribution_Center
             return cenaPoKWh;
         }
 
+        public void posaljiRacun(int potraznja, double cena)
+        {
+            Console.WriteLine("Trenutni racun za struju iznosi " + potraznja*cena + " RSD.");
+        }
+
         private void dodajNaListu(int upotreba)
         {
             Hidro_Model model = new Hidro_Model();
