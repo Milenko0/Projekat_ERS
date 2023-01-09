@@ -93,29 +93,25 @@ namespace Power_Distribution_System
                         korisnik.UkljuciUredjaj(uredjaj1);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
-                        Console.WriteLine("Solarni paneli rade na " + paneliITurbine.JacinaSunca + "% svog maksimalnog potencijala.");
-                        Console.WriteLine("Vetrogeneratori rade na " + paneliITurbine.JacinaVetra + "% svog maksimalnog potencijala.");
+                        distributivni_Centar.posaljiRacun(korisnik.trenutnaPotraznja, distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     case "2":
                         korisnik.UkljuciUredjaj(uredjaj2);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
-                        Console.WriteLine("Solarni paneli rade na " + paneliITurbine.JacinaSunca + "% svog maksimalnog potencijala.");
-                        Console.WriteLine("Vetrogeneratori rade na " + paneliITurbine.JacinaVetra + "% svog maksimalnog potencijala.");
+                        distributivni_Centar.posaljiRacun(korisnik.trenutnaPotraznja, distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     case "3":
                         korisnik.UkljuciUredjaj(uredjaj3);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
-                        Console.WriteLine("Solarni paneli rade na " + paneliITurbine.JacinaSunca + "% svog maksimalnog potencijala.");
-                        Console.WriteLine("Vetrogeneratori rade na " + paneliITurbine.JacinaVetra + "% svog maksimalnog potencijala.");
+                        distributivni_Centar.posaljiRacun(korisnik.trenutnaPotraznja, distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     case "4":
                         korisnik.UkljuciUredjaj(uredjaj4);
                         distributivni_Centar.regulisiHidroelektranu(korisnik.trenutnaPotraznja);
                         korisnik.Energija(distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
-                        Console.WriteLine("Solarni paneli rade na " + paneliITurbine.JacinaSunca + "% svog maksimalnog potencijala.");
-                        Console.WriteLine("Vetrogeneratori rade na " + paneliITurbine.JacinaVetra + "% svog maksimalnog potencijala.");
+                        distributivni_Centar.posaljiRacun(korisnik.trenutnaPotraznja, distributivni_Centar.izracunajCenu(korisnik.trenutnaPotraznja));
                         break;
                     default:
                         Console.WriteLine("Nista od ponudjenog nije izabrano");
