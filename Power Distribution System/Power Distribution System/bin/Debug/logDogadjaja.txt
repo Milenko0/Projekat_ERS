@@ -1,43 +1,7 @@
-Energy demand logging started at 9.1.2023. 15:03:49
+Energy demand logging started at 09/01/2023 19:50:05
 Potraznja energije: 1500 kWh
 Cena po kWh: 9,051 RSD
-Potraznja energije: 3000 kWh
+Potraznja energije: 1600 kWh
 Cena po kWh: 9,051 RSD
-Potraznja energije: 3000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 4500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 4500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 6000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 6000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 7500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 7500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 9000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 9000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 10500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 10500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 12000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 12000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 13500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 13500 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 15000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 15000 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 15100 kWh
-Cena po kWh: 18,102 RSD
-Potraznja energije: 15100 kWh
-Cena po kWh: 18,102 RSD
+Potraznja energije: 1600 kWh
+Cena po kWh: 9,051 RSD
