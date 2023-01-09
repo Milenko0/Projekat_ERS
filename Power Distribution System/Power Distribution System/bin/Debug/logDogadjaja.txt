@@ -1,87 +1,43 @@
-Energy demand logging started at 08/01/2023 9:52:55 pm
+Energy demand logging started at 9.1.2023. 15:03:49
 Potraznja energije: 1500 kWh
-Cena po kWh: 9.051 RSD
+Cena po kWh: 9,051 RSD
 Potraznja energije: 3000 kWh
-Cena po kWh: 9.051 RSD
+Cena po kWh: 9,051 RSD
 Potraznja energije: 3000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 4500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 4500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 6000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 6000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 7500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 7500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 9000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 9000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 10500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 10500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 12000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 12000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 13500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 13500 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 15000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
 Potraznja energije: 15000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 16500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 16500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 18000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 18000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 19500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 19500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 21000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 21000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 22500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 22500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 24000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 24000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 25500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 25500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 27000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 27000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 28500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 28500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 30000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 30000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 31500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 31500 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 33000 kWh
-Cena po kWh: 18.102 RSD
-Potraznja energije: 33000 kWh
-Cena po kWh: 18.102 RSD
+Cena po kWh: 18,102 RSD
+Potraznja energije: 15100 kWh
+Cena po kWh: 18,102 RSD
+Potraznja energije: 15100 kWh
+Cena po kWh: 18,102 RSD

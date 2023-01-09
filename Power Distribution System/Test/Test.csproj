@@ -54,6 +54,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsumerTest.cs" />
     <Compile Include="DistributionCenterTest.cs" />
     <Compile Include="HydroelectricPowerPlantTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
