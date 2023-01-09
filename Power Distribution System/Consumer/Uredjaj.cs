@@ -17,15 +17,15 @@ namespace Consumer
         {
         }
 
-        public Uredjaj(string naziv, int potrosnjaEnergije)
+         public Uredjaj(string naziv, int potrosnjaEnergije)
         {
             if (naziv == null)
             {
-                throw new ArgumentNullException("ne sme biti null");
+                throw new ArgumentNullException("Ne sme biti null!");
             }
             if (naziv.Trim() == "")
             {
-                throw new ArgumentException("ne sme biti null");
+                throw new ArgumentException("Naziv mora sadrzati karaktere!");
             }
             Naziv = naziv;
             PotrosnjaEnergije = potrosnjaEnergije;
