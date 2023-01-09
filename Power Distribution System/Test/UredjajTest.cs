@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -62,7 +62,7 @@ namespace Test
 
      
         [Test]
-        public void TestUkljuciValid()
+        public void TestUkljuci()
         {
             Consumer.Uredjaj uredjaj = new Consumer.Uredjaj();
 
@@ -78,11 +78,11 @@ namespace Test
         }
 
         [Test]
-        public void TestIskljuciValid()
+        public void TestIskljuci()
         {
             Consumer.Uredjaj uredjaj = new Consumer.Uredjaj();
 
-            Assert.AreEqual(uredjaj.Ukljucen, false);
+            Assert.AreNotEqual(uredjaj.Ukljucen, true);
         }
 
         [Test]
@@ -90,7 +90,8 @@ namespace Test
         {
             Consumer.Uredjaj uredjaj = new Consumer.Uredjaj();
 
-            Assert.AreNotEqual(uredjaj.Ukljucen, true);
+            Assert.AreEqual(uredjaj.Ukljucen, false);
         }
     }
 }
+
