@@ -1,54 +1,62 @@
-09/01/2023 9:11:11 pm
+09/01/2023 11:16:03 pm
 Nivo upotrebljenosti hidroelektrane je 0%.
-09/01/2023 9:11:12 pm
+09/01/2023 11:16:04 pm
 Nivo upotrebljenosti hidroelektrane je 0%.
-09/01/2023 9:11:12 pm
+09/01/2023 11:16:04 pm
 Nivo upotrebljenosti hidroelektrane je 0%.
-09/01/2023 9:11:12 pm
+09/01/2023 11:16:04 pm
 Nivo upotrebljenosti hidroelektrane je 0%.
-09/01/2023 9:11:13 pm
+09/01/2023 11:16:04 pm
 Nivo upotrebljenosti hidroelektrane je 0%.
-09/01/2023 9:11:13 pm
+09/01/2023 11:16:04 pm
 Nivo upotrebljenosti hidroelektrane je 0%.
-09/01/2023 9:11:14 pm
+09/01/2023 11:16:05 pm
 Nivo upotrebljenosti hidroelektrane je 1%.
-09/01/2023 9:11:14 pm
+09/01/2023 11:16:05 pm
 Nivo upotrebljenosti hidroelektrane je 4%.
-09/01/2023 9:11:14 pm
+09/01/2023 11:16:06 pm
 Nivo upotrebljenosti hidroelektrane je 7%.
-09/01/2023 9:11:15 pm
+09/01/2023 11:16:06 pm
 Nivo upotrebljenosti hidroelektrane je 10%.
-09/01/2023 9:11:15 pm
+09/01/2023 11:16:06 pm
 Nivo upotrebljenosti hidroelektrane je 13%.
-09/01/2023 9:11:15 pm
+09/01/2023 11:16:07 pm
 Nivo upotrebljenosti hidroelektrane je 16%.
-09/01/2023 9:11:16 pm
+09/01/2023 11:16:07 pm
 Nivo upotrebljenosti hidroelektrane je 19%.
-09/01/2023 9:11:16 pm
+09/01/2023 11:16:08 pm
 Nivo upotrebljenosti hidroelektrane je 22%.
-09/01/2023 9:11:16 pm
+09/01/2023 11:16:08 pm
 Nivo upotrebljenosti hidroelektrane je 25%.
-09/01/2023 9:11:17 pm
+09/01/2023 11:16:09 pm
 Nivo upotrebljenosti hidroelektrane je 28%.
-09/01/2023 9:11:17 pm
+09/01/2023 11:16:10 pm
 Nivo upotrebljenosti hidroelektrane je 31%.
-09/01/2023 9:11:17 pm
+09/01/2023 11:16:10 pm
 Nivo upotrebljenosti hidroelektrane je 34%.
-09/01/2023 9:11:18 pm
+09/01/2023 11:16:10 pm
 Nivo upotrebljenosti hidroelektrane je 37%.
-09/01/2023 9:11:18 pm
+09/01/2023 11:16:11 pm
 Nivo upotrebljenosti hidroelektrane je 40%.
-09/01/2023 9:11:19 pm
+09/01/2023 11:16:12 pm
 Nivo upotrebljenosti hidroelektrane je 43%.
-09/01/2023 9:11:19 pm
+09/01/2023 11:16:12 pm
 Nivo upotrebljenosti hidroelektrane je 46%.
-09/01/2023 9:11:20 pm
+09/01/2023 11:16:13 pm
 Nivo upotrebljenosti hidroelektrane je 49%.
-09/01/2023 9:11:25 pm
+09/01/2023 11:16:13 pm
 Nivo upotrebljenosti hidroelektrane je 52%.
-09/01/2023 9:11:29 pm
+09/01/2023 11:16:14 pm
 Nivo upotrebljenosti hidroelektrane je 55%.
-09/01/2023 9:11:31 pm
+09/01/2023 11:16:14 pm
 Nivo upotrebljenosti hidroelektrane je 58%.
-09/01/2023 9:11:32 pm
+09/01/2023 11:16:15 pm
 Nivo upotrebljenosti hidroelektrane je 61%.
+09/01/2023 11:16:15 pm
+Nivo upotrebljenosti hidroelektrane je 64%.
+09/01/2023 11:16:16 pm
+Nivo upotrebljenosti hidroelektrane je 67%.
+09/01/2023 11:16:16 pm
+Nivo upotrebljenosti hidroelektrane je 70%.
+09/01/2023 11:16:17 pm
+Nivo upotrebljenosti hidroelektrane je 73%.

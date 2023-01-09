@@ -63,8 +63,8 @@ namespace Power_Distribution_System
                     Console.WriteLine("Could not be parsed.");*/
                 paneliITurbine.generisiJacinuSunca();
                 paneliITurbine.generisiJacinuVetra();
-                Console.WriteLine("Solarni paneli rade na " + paneliITurbine.JacinaSunca + "% svog maksimalnog potencijala.");
-                Console.WriteLine("Vetrogeneratori rade na " + paneliITurbine.JacinaVetra + "% svog maksimalnog potencijala.");
+                //Console.WriteLine("Solarni paneli rade na " + paneliITurbine.JacinaSunca + "% svog maksimalnog potencijala.");
+                //Console.WriteLine("Vetrogeneratori rade na " + paneliITurbine.JacinaVetra + "% svog maksimalnog potencijala.");
             }
             distributivni_Centar.PrirodnaProizvodnja = paneliITurbine.BrojPanela * paneliITurbine.ProizvodnjaPanela + paneliITurbine.BrojTurbina * paneliITurbine.ProizvodnjaTurbina;
             

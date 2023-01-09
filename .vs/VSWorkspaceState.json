@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Power Distribution System",
+    "\\Power Distribution System\\Test"
   ],
-  "SelectedNode": "\\Power Distribution System.sln",
+  "SelectedNode": "\\Power Distribution System\\Test\\ConsumerTest.cs",
   "PreviewInSolutionExplorer": false
 }
