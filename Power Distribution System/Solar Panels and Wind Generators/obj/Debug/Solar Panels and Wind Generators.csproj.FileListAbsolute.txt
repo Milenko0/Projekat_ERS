@@ -51,3 +51,16 @@ C:\Users\Milenko\Desktop\Project\Projekat_ERS\Power Distribution System\Solar Pa
 C:\Users\Milenko\Desktop\Project\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
 C:\Users\Milenko\Desktop\Project\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
 C:\Users\Milenko\Desktop\Project\Projekat_ERS\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\nunit.engine.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\nunit.engine.api.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\nunit.engine.core.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll.config
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\bin\Debug\Solar Panels and Wind Generators.pdb
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.AssemblyReference.cache
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.dll
+C:\Users\Gustavo Fringe\Desktop\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa\Projekat_ERS-main\Power Distribution System\Solar Panels and Wind Generators\obj\Debug\Solar Panels and Wind Generators.pdb
