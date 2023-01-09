@@ -88,6 +88,7 @@ namespace Power_Distribution_System
                 {
                     case "0":
                         distributivni_Centar.saveToExcel();
+                        paneliITurbine.saveToExcel();
                         return;
                     case "1":
                         korisnik.UkljuciUredjaj(uredjaj1);
