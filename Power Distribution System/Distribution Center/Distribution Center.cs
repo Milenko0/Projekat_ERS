@@ -30,7 +30,7 @@ namespace Distribution_Center
                 dodajNaListu(hidroelektrana.UpotrebaHidroelektrane);
                 LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
-            else if(potraznja - PrirodnaProizvodnja > maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
+            else if(Math.Abs(potraznja - PrirodnaProizvodnja) > maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
             {
                 hidroelektrana.UpotrebaHidroelektrane = (potraznja - PrirodnaProizvodnja) / (maksimalnaProizvodnjaHidroelektrane / 100);
                 Console.WriteLine("Potrebno je povecati nivo proizvodnje hidroelektrane.");
@@ -38,7 +38,7 @@ namespace Distribution_Center
                 dodajNaListu(hidroelektrana.UpotrebaHidroelektrane);
                 LogRegulacijeHidroElektrane(hidroelektrana.UpotrebaHidroelektrane);
             }
-            else if (potraznja - PrirodnaProizvodnja < maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
+            else if (Math.Abs(potraznja - PrirodnaProizvodnja) < maksimalnaProizvodnjaHidroelektrane * hidroelektrana.UpotrebaHidroelektrane / 100)
             {
                 hidroelektrana.UpotrebaHidroelektrane = (potraznja - PrirodnaProizvodnja) / (maksimalnaProizvodnjaHidroelektrane / 100);
                 Console.WriteLine("Potrebno je smanjiti nivo proizvodnje hidroelektrane.");
