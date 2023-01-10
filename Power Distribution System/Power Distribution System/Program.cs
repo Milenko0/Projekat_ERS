@@ -71,6 +71,7 @@ namespace Power_Distribution_System
             Console.WriteLine("----------------Power Distribution System----------------");
             while (true)
             {
+                distributivni_Centar.PrirodnaProizvodnja = paneliITurbine.BrojPanela * paneliITurbine.ProizvodnjaPanela + paneliITurbine.BrojTurbina * paneliITurbine.ProizvodnjaTurbina;
                 
                 Console.WriteLine("Lista uredjaja:");
                 
